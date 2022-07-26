@@ -65,7 +65,7 @@ I love the entire process of developing creative websites. I love the challenge 
 
 ## 📝 Latest Linkedin Posts
 
-- [Data PreProcessing using Python✅](https://www.linkedin.com/embed/feed/update/urn:li:share:6956521164659654656)
+- [Data PreProcessing using Python ✅](https://www.linkedin.com/posts/vikas-nimesh_machinelearning-datascience-python-activity-6956521165389459456-rM8c)
 
 ## 📈 GitHub Stats 
 
