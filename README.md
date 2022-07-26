@@ -8,7 +8,7 @@ Hi there, I'm Vikas Nimesh 👋
 </h3>
 
 <h2 align="center">
-I'm a Data Science Enthusiast 💻, Android Developer 📱 !
+I'm a Data Science Enthusiast 💻 and Android Developer 📱 !
 </h2> 
 
 🌱 I love to learn and grow every day
