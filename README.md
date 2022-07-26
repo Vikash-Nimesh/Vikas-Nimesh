@@ -1,15 +1,5 @@
-<h1 align="center">Hi 👋, I'm Vikas Nimesh</h1>
-<h3 align="center">A passionate developer from India</h3>
+<p align=”center”>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vikas-nimesh&label=Profile%20views&color=0e75b6&style=plastic" alt="vikas-nimesh" /> </p>
+<img width=”200" height=”200" src=”https://export-download.canva.com/oMLYU/DAE_50oMLYU/8/0/0001-31527956918.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJHKNGJLC2J7OGJ6Q%2F20220726%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20220726T054207Z&X-Amz-Expires=25380&X-Amz-Signature=4c50d83b04ff780c87180306817192f03f7682e6eaed1b5acc80e6523eb7bd8b&X-Amz-SignedHeaders=host&response-content-disposition=attachment%3B%20filename%2A%3DUTF-8%27%27Beige%2520Minimalist%2520Torn%2520Paper%2520Fashion%2520Style%2520Youtube%2520Channel%2520Art.png&response-expires=Tue%2C%2026%20Jul%202022%2012%3A45%3A07%20GMT" alt=”my banner”>
 
-- ⚡ Fun fact **Everyone uses stackoverflow**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/vikas-nimesh-111968149" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vikas-nimesh-111968149" height="30" width="40" /></a>
-<a href="https://instagram.com/imvikasnimesh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="imvikasnimesh" height="30" width="40" /></a>
 </p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> </p>
