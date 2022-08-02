@@ -35,7 +35,7 @@ I'm a Data Science Enthusiast 💻 and Android Developer 📱 !
 
 ## 📈 GitHub Stats 
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=vikas-nimesh)](https://github.com/vikas-nimesh)
+[![Vikas's github stats](https://github-readme-stats.vercel.app/api?username=vikas-nimesh)](https://github.com/vikas-nimesh)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vikas-nimesh&layout=compact)](https://github.com/vikas-nimesh)
 
